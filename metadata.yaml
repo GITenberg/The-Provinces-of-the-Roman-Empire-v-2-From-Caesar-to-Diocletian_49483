@@ -1,0 +1,39 @@
+_repo: The-Provinces-of-the-Roman-Empire-v-2-From-Caesar-to-Diocletian_49483
+contributor:
+  illustrator:
+    agent_name: Kiepert
+    gutenberg_agent_id: '45065'
+    url: http://www.gutenberg.org/2009/agents/45065
+  translator:
+    agent_name: Dickson, William P. (William Purdie)
+    alias: Dickson, William Purdie
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '6282'
+    url: http://www.gutenberg.org/2009/agents/6282
+creator:
+  author:
+    agent_name: Mommsen, Theodor
+    aliases:
+    - Mommsen, T. (Theodor)
+    - Mommsen, Christian Matthias Theodor
+    - Mommsen, Theodorus
+    - Mommzen, Teodor
+    birthdate: 1817
+    deathdate: 1903
+    gutenberg_agent_id: '1105'
+    url: http://www.gutenberg.org/2009/agents/1105
+    wikipedia: http://en.wikipedia.org/wiki/Theodor_Mommsen
+description: ''
+gutenberg_issued: '2015-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Provinces of the Roman Empire, v. 2.
+
+  From Caesar to Diocletian'
+url: http://www.gutenberg.org/ebooks/49483
