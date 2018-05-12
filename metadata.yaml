@@ -1,4 +1,5 @@
 _repo: The-Provinces-of-the-Roman-Empire-v-2-From-Caesar-to-Diocletian_49483
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Kiepert
@@ -11,6 +12,9 @@ contributor:
     deathdate: 1901
     gutenberg_agent_id: '6282'
     url: http://www.gutenberg.org/2009/agents/6282
+covers:
+- cover_type: archival
+  image_path: 49483-h/images/cover.jpg
 creator:
   author:
     agent_name: Mommsen, Theodor
@@ -25,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1105
     wikipedia: http://en.wikipedia.org/wiki/Theodor_Mommsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49483#The-Provinces-of-the-Roman-Empire-v-2-From-Caesar-to-Diocletian
 gutenberg_issued: '2015-07-18'
 gutenberg_type: Text
 identifiers:
